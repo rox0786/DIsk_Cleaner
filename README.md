@@ -69,7 +69,7 @@ sudo journalctl --vacuum-time=7d
 **Step 1 — Get the script and make it runnable**
 ```bash
 git clone https://github.com/rox0786/Disk_cleaner
-cd disk-cleaner
+cd Disk-cleaner
 chmod +x disk-cleaner.sh
 ```
 

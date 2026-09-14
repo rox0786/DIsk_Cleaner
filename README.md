@@ -1,4 +1,4 @@
-# Disk Cleaner (formerly Kali Cache Cleaner)
+# Kali Disk Cache Cleaner
 
 A Bash tool to audit and reclaim disk space on Kali Linux / Debian-based pentest VMs. Started as a small cache-cleaning script and grew into a two-phase tool after running into a `No space left on device` error mid-engagement, caused by security-tool caches (Burp Suite's bundled Chromium, ZAP sessions) silently eating tens of gigabytes.
 
